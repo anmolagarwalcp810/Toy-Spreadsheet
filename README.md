@@ -1,4 +1,4 @@
-# Toy Spreadsheet
+# Toy Spreadsheet OCaml
 ## How to Run
 ```shell
 make
